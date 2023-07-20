@@ -1,0 +1,4 @@
+[submodule "baresip-apps"]
+	path = lib
+	url = https://github.com/cspiel1/baresip-apps.git
+	branch = zephyr
