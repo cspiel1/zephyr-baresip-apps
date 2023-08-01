@@ -17,5 +17,6 @@ zephyr_library_compile_definitions(
 
 zephyr_library_sources(
   lib/modules/auwm8960/auwm8960.c
+  lib/modules/auwm8960/auwm8960_src.c
   lib/modules/auwm8960/auwm8960_play.c
 )
